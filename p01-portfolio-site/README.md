@@ -4,6 +4,11 @@
 First project from the Front-End Web Developer Nanodegree in Udacity:
 developed and personalized a responsive website with HTML5 and CSS3, from a provided PDF design mockup.
 
+### How to run the application
+---
+
+Visit [this site](http://theman.zone/p01-portfolio-site/index.html) or download the repository in your desktop, unzip it and open the "index.html" file in your browser to run the project.
+
 
 ### Udacity's instructions
 
